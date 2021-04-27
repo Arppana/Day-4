@@ -1,0 +1,1 @@
+A program that will a custom exception when you error is null
